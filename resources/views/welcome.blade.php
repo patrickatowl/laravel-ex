@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 in Owlting</div>
+                <div class="title">Laravel 5 in Owlting in Taipei</div>
             </div>
         </div>
     </body>
